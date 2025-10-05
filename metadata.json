@@ -1,0 +1,5 @@
+{
+  "name": "SciELO JATS XML Converter",
+  "description": "An intelligent tool to convert Word documents (.docx) into JATS XML format compliant with the SciELO Publishing Schema. It uses AI to automatically extract metadata and provides an interface for review and correction before generating the final XML.",
+  "requestFramePermissions": []
+}
